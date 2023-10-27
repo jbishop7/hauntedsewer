@@ -14,4 +14,6 @@ OR
 
 ### Finally...
 Run Haunted Sewer.exe
+- Your computer won't want to start it! Click more options and run anyway.
+- I promise there is no malicious code in the build.
 3 Leaderboard slots, local only. Go have a LAN party
